@@ -7,7 +7,8 @@ Even more recently, I've been pentesting as an Ethical Hacker almost entirely by
 Anyway, I've grounded myself on [Python](https://github.com/Osawele/pythons.git) and [BaSH scripting](https://github.com/Osawele/bash_scripts.git) along the way. You can check out my works on those by following the provided links. They're all here on github. I could also be getting in on rails later 🤔(or not...🤷🏽‍♂️)
 More to these messy stuffs, I'ma get in on some pentesting of some intentionally vulnerable websites and drop the links to their reports here so you can check em out too. For now, ✌🏾
 
-Yeah, on more thing: if you'd like to see how weird I can be on socials or contact me for some good old professional, work related stuffs, feel free to reach out to me on LinkedIn and X (formally twitter.)
+Yeah, on more thing: if you'd like to see how weird I can be on socials or contact me for some good old professional, work related stuffs, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/isioma-emmanuel-osawele
+) and [X (formally twitter)](https://x.com/creator_e99)
 
 Alright, for now... really ✌🏾
 
