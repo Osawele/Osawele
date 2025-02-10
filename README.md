@@ -1,6 +1,6 @@
 This is a brief about yours truely!
 I write and rewrite these words like they are my biography (and they technically are 🤷🏽‍♂️) on the 10th day of 2025's February.    
-My full name as given to me by my Papa is <u>**Isioma Emmanuel Osawele**</u>. I am told I came to life mid third quarter, about 25 autumnal equinox seasons ago.  Ok, lets skip some 22 years. They're boring formation years. 🥱
+My full name as given to me by my Papa is <u>**Isioma Emmanuel Osawele**</u>. I am told I came to life mid third quarter, about 25 autumnal equinox seasons ago.  Ok, lets skip some 22 years. They're boring formative years. 🥱
 
 
 Yeah! recently, I've bagged a BSc in Industrial Physics as a scientific researcher. You can look up an example of my research work [here](https://journals.nipes.org/index.php/jmsc/article/view/657/650). ✌🏾
