@@ -13,4 +13,4 @@ Yeah, on more thing: if you'd like to see how weird I can be on socials or conta
 Alright, for now... really ✌🏾
 
 
-Note: This page is still actively under development. Nonetheless, take the work portfolio you find inside very seriously. Thanks for the patience in... reading.
+Note: This page is still actively under development. Nonetheless, take the work portfolio you find inside very seriously. Thanks for the patience... in reading.
